@@ -1,6 +1,4 @@
-# Dev Methodologies
+# Training Arduino
 
-* [Agile](http://agilemanifesto.org/)
-  1. Scrum
-  1. Kanban
-  1. Extreme Programming
+### Resources
+1. [Wowki Elements](https://github.com/wokwi/wokwi-elements)
